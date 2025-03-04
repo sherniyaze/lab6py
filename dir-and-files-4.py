@@ -1,2 +1,2 @@
-file = open("for-task4.txt", 'r')
+file = open("shedevrofilefor4.txt", 'r')
 print(len(file.readlines()))
